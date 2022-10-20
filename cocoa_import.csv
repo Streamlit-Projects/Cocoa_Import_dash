@@ -1,0 +1,841 @@
+Continent,Geo,Importers,Year,Tonnes
+Europe,Europe,Netherlands,2017,930340
+Europe,Europe,Netherlands,2018,1079178
+Europe,Europe,Netherlands,2019,997685
+Europe,Europe,Netherlands,2020,681307
+Europe,Europe,Netherlands,2021,804037
+Asia,Asia & Oceania,Malaysia,2017,311519
+Asia,Asia & Oceania,Malaysia,2018,345489
+Asia,Asia & Oceania,Malaysia,2019,351493
+Asia,Asia & Oceania,Malaysia,2020,384682
+Asia,Asia & Oceania,Malaysia,2021,478787
+North America,Americas,United States of America,2017,470258
+North America,Americas,United States of America,2018,415273
+North America,Americas,United States of America,2019,375536
+North America,Americas,United States of America,2020,377049
+North America,Americas,United States of America,2021,471675
+Europe,Europe,Germany,2017,448744
+Europe,Europe,Germany,2018,469619
+Europe,Europe,Germany,2019,469341
+Europe,Europe,Germany,2020,441903
+Europe,Europe,Germany,2021,445302
+Europe,Europe,Belgium,2017,320227
+Europe,Europe,Belgium,2018,233627
+Europe,Europe,Belgium,2019,281128
+Europe,Europe,Belgium,2020,279533
+Europe,Europe,Belgium,2021,335616
+Asia,Asia & Oceania,Indonesia,2017,226613
+Asia,Asia & Oceania,Indonesia,2018,239377
+Asia,Asia & Oceania,Indonesia,2019,252729
+Asia,Asia & Oceania,Indonesia,2020,198838
+Asia,Asia & Oceania,Indonesia,2021,252121
+Europe,Europe,France,2017,142091
+Europe,Europe,France,2018,155910
+Europe,Europe,France,2019,156765
+Europe,Europe,France,2020,159483
+Europe,Europe,France,2021,161031
+North America,Americas,Canada,2017,73527
+North America,Americas,Canada,2018,99924
+North America,Americas,Canada,2019,91029
+North America,Americas,Canada,2020,103284
+North America,Americas,Canada,2021,125327
+Asia,Asia & Oceania,Turkey,2017,103371
+Asia,Asia & Oceania,Turkey,2018,97610
+Asia,Asia & Oceania,Turkey,2019,107483
+Asia,Asia & Oceania,Turkey,2020,137470
+Asia,Asia & Oceania,Turkey,2021,124494
+Europe,Europe,Italy,2017,100242
+Europe,Europe,Italy,2018,98406
+Europe,Europe,Italy,2019,99080
+Europe,Europe,Italy,2020,99519
+Europe,Europe,Italy,2021,106924
+Europe,Europe,Spain,2017,123664
+Europe,Europe,Spain,2018,99990
+Europe,Europe,Spain,2019,101570
+Europe,Europe,Spain,2020,97532
+Europe,Europe,Spain,2021,99601
+Asia,Asia & Oceania,Singapore,2017,83955
+Asia,Asia & Oceania,Singapore,2018,90006
+Asia,Asia & Oceania,Singapore,2019,90797
+Asia,Asia & Oceania,Singapore,2020,88720
+Asia,Asia & Oceania,Singapore,2021,96065
+Europe,Europe,United Kingdom,2017,107079
+Europe,Europe,United Kingdom,2018,113620
+Europe,Europe,United Kingdom,2019,101416
+Europe,Europe,United Kingdom,2020,116462
+Europe,Europe,United Kingdom,2021,79732
+Europe,Europe,Russian Federation,2017,53689
+Europe,Europe,Russian Federation,2018,55239
+Europe,Europe,Russian Federation,2019,65749
+Europe,Europe,Russian Federation,2020,69910
+Europe,Europe,Russian Federation,2021,67486
+South America,Americas,Brazil,2017,61004
+South America,Americas,Brazil,2018,62469
+South America,Americas,Brazil,2019,56110
+South America,Americas,Brazil,2020,46488
+South America,Americas,Brazil,2021,59824
+Europe,Europe,Switzerland,2017,42784
+Europe,Europe,Switzerland,2018,44984
+Europe,Europe,Switzerland,2019,49159
+Europe,Europe,Switzerland,2020,48670
+Europe,Europe,Switzerland,2021,52361
+Asia,Asia & Oceania,Japan,2017,54836
+Asia,Asia & Oceania,Japan,2018,58617
+Asia,Asia & Oceania,Japan,2019,53548
+Asia,Asia & Oceania,Japan,2020,48533
+Asia,Asia & Oceania,Japan,2021,37820
+Europe,Europe,Bulgaria,2017,2217
+Europe,Europe,Bulgaria,2018,15305
+Europe,Europe,Bulgaria,2019,18063
+Europe,Europe,Bulgaria,2020,16729
+Europe,Europe,Bulgaria,2021,24335
+Europe,Europe,Austria,2017,9648
+Europe,Europe,Austria,2018,29715
+Europe,Europe,Austria,2019,28386
+Europe,Europe,Austria,2020,26591
+Europe,Europe,Austria,2021,23392
+Asia,Asia & Oceania,India,2017,24415
+Asia,Asia & Oceania,India,2018,34445
+Asia,Asia & Oceania,India,2019,26889
+Asia,Asia & Oceania,India,2020,22993
+Asia,Asia & Oceania,India,2021,22786
+Europe,Europe,Estonia,2017,44681
+Europe,Europe,Estonia,2018,21414
+Europe,Europe,Estonia,2019,13035
+Europe,Europe,Estonia,2020,13497
+Europe,Europe,Estonia,2021,21042
+North America,Americas,Mexico,2017,41322
+North America,Americas,Mexico,2018,38546
+North America,Americas,Mexico,2019,0
+North America,Americas,Mexico,2020,0
+North America,Americas,Mexico,2021,19316
+Asia,Asia & Oceania,China,2017,27126
+Asia,Asia & Oceania,China,2018,32552
+Asia,Asia & Oceania,China,2019,31596
+Asia,Asia & Oceania,China,2020,20293
+Asia,Asia & Oceania,China,2021,16601
+Europe,Europe,Ukraine,2017,13773
+Europe,Europe,Ukraine,2018,16439
+Europe,Europe,Ukraine,2019,16731
+Europe,Europe,Ukraine,2020,16400
+Europe,Europe,Ukraine,2021,14997
+Europe,Europe,Poland,2017,12637
+Europe,Europe,Poland,2018,10154
+Europe,Europe,Poland,2019,13464
+Europe,Europe,Poland,2020,15251
+Europe,Europe,Poland,2021,14591
+Asia,Asia & Oceania,Viet Nam,2017,2
+Asia,Asia & Oceania,Viet Nam,2018,160
+Asia,Asia & Oceania,Viet Nam,2019,49
+Asia,Asia & Oceania,Viet Nam,2020,111
+Asia,Asia & Oceania,Viet Nam,2021,9550
+Europe,Europe,Belarus,2017,7764
+Europe,Europe,Belarus,2018,7197
+Europe,Europe,Belarus,2019,7379
+Europe,Europe,Belarus,2020,6633
+Europe,Europe,Belarus,2021,6753
+North America,Americas,Guatemala,2017,2643
+North America,Americas,Guatemala,2018,1886
+North America,Americas,Guatemala,2019,2206
+North America,Americas,Guatemala,2020,3569
+North America,Americas,Guatemala,2021,4743
+Asia,Asia & Oceania,"Korea, Republic of",2017,7040
+Asia,Asia & Oceania,"Korea, Republic of",2018,4737
+Asia,Asia & Oceania,"Korea, Republic of",2019,4750
+Asia,Asia & Oceania,"Korea, Republic of",2020,4838
+Asia,Asia & Oceania,"Korea, Republic of",2021,4695
+Europe,Europe,Slovakia,2017,8828
+Europe,Europe,Slovakia,2018,10378
+Europe,Europe,Slovakia,2019,7766
+Europe,Europe,Slovakia,2020,7137
+Europe,Europe,Slovakia,2021,4694
+Europe,Europe,Greece,2017,3160
+Europe,Europe,Greece,2018,3808
+Europe,Europe,Greece,2019,3279
+Europe,Europe,Greece,2020,3558
+Europe,Europe,Greece,2021,3856
+Africa,Africa,Tunisia,2017,5799
+Africa,Africa,Tunisia,2018,5000
+Africa,Africa,Tunisia,2019,7544
+Africa,Africa,Tunisia,2020,6901
+Africa,Africa,Tunisia,2021,3500
+Europe,Europe,Lithuania,2017,2
+Europe,Europe,Lithuania,2018,1
+Europe,Europe,Lithuania,2019,71
+Europe,Europe,Lithuania,2020,1144
+Europe,Europe,Lithuania,2021,2554
+Oceania,Asia & Oceania,New Zealand,2017,1694
+Oceania,Asia & Oceania,New Zealand,2018,2452
+Oceania,Asia & Oceania,New Zealand,2019,2550
+Oceania,Asia & Oceania,New Zealand,2020,3051
+Oceania,Asia & Oceania,New Zealand,2021,2457
+Asia,Asia & Oceania,"Iran, Islamic Republic of",2017,12067
+Asia,Asia & Oceania,"Iran, Islamic Republic of",2018,8300
+Asia,Asia & Oceania,"Iran, Islamic Republic of",2019,5774
+Asia,Asia & Oceania,"Iran, Islamic Republic of",2020,3857
+Asia,Asia & Oceania,"Iran, Islamic Republic of",2021,1964
+Europe,Europe,Serbia,2017,2661
+Europe,Europe,Serbia,2018,3428
+Europe,Europe,Serbia,2019,2462
+Europe,Europe,Serbia,2020,2566
+Europe,Europe,Serbia,2021,1926
+Africa,Africa,Algeria,2017,1948
+Africa,Africa,Algeria,2018,1614
+Africa,Africa,Algeria,2019,1502
+Africa,Africa,Algeria,2020,1302
+Africa,Africa,Algeria,2021,1602
+Europe,Europe,Croatia,2017,1774
+Europe,Europe,Croatia,2018,1597
+Europe,Europe,Croatia,2019,1360
+Europe,Europe,Croatia,2020,1771
+Europe,Europe,Croatia,2021,1575
+Asia,Asia & Oceania,Armenia,2017,2049
+Asia,Asia & Oceania,Armenia,2018,1401
+Asia,Asia & Oceania,Armenia,2019,2657
+Asia,Asia & Oceania,Armenia,2020,976
+Asia,Asia & Oceania,Armenia,2021,1155
+North America,Americas,El Salvador,2017,945
+North America,Americas,El Salvador,2018,1010
+North America,Americas,El Salvador,2019,1007
+North America,Americas,El Salvador,2020,894
+North America,Americas,El Salvador,2021,1033
+Asia,Asia & Oceania,Kazakhstan,2017,8343
+Asia,Asia & Oceania,Kazakhstan,2018,9270
+Asia,Asia & Oceania,Kazakhstan,2019,4397
+Asia,Asia & Oceania,Kazakhstan,2020,8437
+Asia,Asia & Oceania,Kazakhstan,2021,650
+Asia,Asia & Oceania,Cambodia,2017,1122
+Asia,Asia & Oceania,Cambodia,2018,1053
+Asia,Asia & Oceania,Cambodia,2019,1924
+Asia,Asia & Oceania,Cambodia,2020,931
+Asia,Asia & Oceania,Cambodia,2021,515
+Oceania,Asia & Oceania,Australia,2017,544
+Oceania,Asia & Oceania,Australia,2018,600
+Oceania,Asia & Oceania,Australia,2019,588
+Oceania,Asia & Oceania,Australia,2020,465
+Oceania,Asia & Oceania,Australia,2021,485
+Asia,Asia & Oceania,Philippines,2017,692
+Asia,Asia & Oceania,Philippines,2018,612
+Asia,Asia & Oceania,Philippines,2019,0
+Asia,Asia & Oceania,Philippines,2020,178
+Asia,Asia & Oceania,Philippines,2021,457
+South America,Americas,Argentina,2017,345
+South America,Americas,Argentina,2018,452
+South America,Americas,Argentina,2019,494
+South America,Americas,Argentina,2020,281
+South America,Americas,Argentina,2021,418
+Europe,Europe,Bosnia and Herzegovina,2017,857
+Europe,Europe,Bosnia and Herzegovina,2018,887
+Europe,Europe,Bosnia and Herzegovina,2019,655
+Europe,Europe,Bosnia and Herzegovina,2020,677
+Europe,Europe,Bosnia and Herzegovina,2021,372
+Asia,Asia & Oceania,United Arab Emirates,2017,25
+Asia,Asia & Oceania,United Arab Emirates,2018,30
+Asia,Asia & Oceania,United Arab Emirates,2019,4071
+Asia,Asia & Oceania,United Arab Emirates,2020,0
+Asia,Asia & Oceania,United Arab Emirates,2021,359
+Europe,Europe,Portugal,2017,166
+Europe,Europe,Portugal,2018,143
+Europe,Europe,Portugal,2019,171
+Europe,Europe,Portugal,2020,127
+Europe,Europe,Portugal,2021,292
+Africa,Africa,Uganda,2017,278
+Africa,Africa,Uganda,2018,276
+Africa,Africa,Uganda,2019,1725
+Africa,Africa,Uganda,2020,1435
+Africa,Africa,Uganda,2021,262
+North America,Americas,Panama,2017,504
+North America,Americas,Panama,2018,818
+North America,Americas,Panama,2019,325
+North America,Americas,Panama,2020,429
+North America,Americas,Panama,2021,225
+Europe,Europe,Latvia,2017,18
+Europe,Europe,Latvia,2018,0
+Europe,Europe,Latvia,2019,0
+Europe,Europe,Latvia,2020,8
+Europe,Europe,Latvia,2021,203
+South America,Americas,Chile,2017,115
+South America,Americas,Chile,2018,152
+South America,Americas,Chile,2019,206
+South America,Americas,Chile,2020,280
+South America,Americas,Chile,2021,185
+Africa,Africa,Rwanda,2017,11
+Africa,Africa,Rwanda,2018,1
+Africa,Africa,Rwanda,2019,0
+Africa,Africa,Rwanda,2020,0
+Africa,Africa,Rwanda,2021,134
+South America,Americas,Colombia,2017,488
+South America,Americas,Colombia,2018,670
+South America,Americas,Colombia,2019,328
+South America,Americas,Colombia,2020,180
+South America,Americas,Colombia,2021,133
+Africa,Africa,South Africa,2017,160
+Africa,Africa,South Africa,2018,201
+Africa,Africa,South Africa,2019,176
+Africa,Africa,South Africa,2020,72
+Africa,Africa,South Africa,2021,123
+Europe,Europe,Finland,2017,33
+Europe,Europe,Finland,2018,50
+Europe,Europe,Finland,2019,0
+Europe,Europe,Finland,2020,73
+Europe,Europe,Finland,2021,91
+Europe,Europe,Sweden,2017,14
+Europe,Europe,Sweden,2018,15
+Europe,Europe,Sweden,2019,50
+Europe,Europe,Sweden,2020,44
+Europe,Europe,Sweden,2021,63
+Africa,Africa,Gabon,2017,0
+Africa,Africa,Gabon,2018,2
+Africa,Africa,Gabon,2019,1
+Africa,Africa,Gabon,2020,7
+Africa,Africa,Gabon,2021,55
+North America,Americas,Costa Rica,2017,0
+North America,Americas,Costa Rica,2018,10
+North America,Americas,Costa Rica,2019,95
+North America,Americas,Costa Rica,2020,63
+North America,Americas,Costa Rica,2021,35
+Europe,Europe,Slovenia,2017,30
+Europe,Europe,Slovenia,2018,27
+Europe,Europe,Slovenia,2019,22
+Europe,Europe,Slovenia,2020,33
+Europe,Europe,Slovenia,2021,29
+Asia,Asia & Oceania,"Hong Kong, China",2017,23
+Asia,Asia & Oceania,"Hong Kong, China",2018,56
+Asia,Asia & Oceania,"Hong Kong, China",2019,1
+Asia,Asia & Oceania,"Hong Kong, China",2020,2
+Asia,Asia & Oceania,"Hong Kong, China",2021,28
+North America,Americas,Dominican Republic,2017,2
+North America,Americas,Dominican Republic,2018,129
+North America,Americas,Dominican Republic,2019,103
+North America,Americas,Dominican Republic,2020,5
+North America,Americas,Dominican Republic,2021,26
+Europe,Europe,Ireland,2017,7
+Europe,Europe,Ireland,2018,7
+Europe,Europe,Ireland,2019,141
+Europe,Europe,Ireland,2020,40
+Europe,Europe,Ireland,2021,23
+Africa,Africa,Angola,2017,0
+Africa,Africa,Angola,2018,5
+Africa,Africa,Angola,2019,10
+Africa,Africa,Angola,2020,9
+Africa,Africa,Angola,2021,20
+Asia,Asia & Oceania,"Taipei, Chinese",2017,18
+Asia,Asia & Oceania,"Taipei, Chinese",2018,26
+Asia,Asia & Oceania,"Taipei, Chinese",2019,15
+Asia,Asia & Oceania,"Taipei, Chinese",2020,21
+Asia,Asia & Oceania,"Taipei, Chinese",2021,20
+Asia,Asia & Oceania,Thailand,2017,1
+Asia,Asia & Oceania,Thailand,2018,290
+Asia,Asia & Oceania,Thailand,2019,980
+Asia,Asia & Oceania,Thailand,2020,19
+Asia,Asia & Oceania,Thailand,2021,18
+Europe,Europe,Norway,2017,10
+Europe,Europe,Norway,2018,10
+Europe,Europe,Norway,2019,15
+Europe,Europe,Norway,2020,13
+Europe,Europe,Norway,2021,17
+Europe,Europe,Denmark,2017,3368
+Europe,Europe,Denmark,2018,4307
+Europe,Europe,Denmark,2019,3160
+Europe,Europe,Denmark,2020,771
+Europe,Europe,Denmark,2021,16
+South America,Americas,Ecuador,2017,60
+South America,Americas,Ecuador,2018,60
+South America,Americas,Ecuador,2019,60
+South America,Americas,Ecuador,2020,16
+South America,Americas,Ecuador,2021,15
+Africa,Africa,Ghana,2017,0
+Africa,Africa,Ghana,2018,0
+Africa,Africa,Ghana,2019,0
+Africa,Africa,Ghana,2020,9928
+Africa,Africa,Ghana,2021,13
+Europe,Europe,Hungary,2017,8
+Europe,Europe,Hungary,2018,8
+Europe,Europe,Hungary,2019,34
+Europe,Europe,Hungary,2020,7
+Europe,Europe,Hungary,2021,12
+Asia,Asia & Oceania,Kyrgyzstan,2017,0
+Asia,Asia & Oceania,Kyrgyzstan,2018,0
+Asia,Asia & Oceania,Kyrgyzstan,2019,0
+Asia,Asia & Oceania,Kyrgyzstan,2020,0
+Asia,Asia & Oceania,Kyrgyzstan,2021,12
+Asia,Asia & Oceania,Saudi Arabia,2017,1
+Asia,Asia & Oceania,Saudi Arabia,2018,0
+Asia,Asia & Oceania,Saudi Arabia,2019,0
+Asia,Asia & Oceania,Saudi Arabia,2020,16
+Asia,Asia & Oceania,Saudi Arabia,2021,11
+Europe,Europe,Iceland,2017,9
+Europe,Europe,Iceland,2018,14
+Europe,Europe,Iceland,2019,17
+Europe,Europe,Iceland,2020,16
+Europe,Europe,Iceland,2021,11
+South America,Americas,"Bolivia, Plurinational State of",2017,26
+South America,Americas,"Bolivia, Plurinational State of",2018,50
+South America,Americas,"Bolivia, Plurinational State of",2019,0
+South America,Americas,"Bolivia, Plurinational State of",2020,0
+South America,Americas,"Bolivia, Plurinational State of",2021,11
+Oceania,Asia & Oceania,American Samoa,2017,0
+Oceania,Asia & Oceania,American Samoa,2018,0
+Oceania,Asia & Oceania,American Samoa,2019,0
+Oceania,Asia & Oceania,American Samoa,2020,6
+Oceania,Asia & Oceania,American Samoa,2021,9
+Asia,Asia & Oceania,Uzbekistan,2017,5
+Asia,Asia & Oceania,Uzbekistan,2018,3
+Asia,Asia & Oceania,Uzbekistan,2019,14
+Asia,Asia & Oceania,Uzbekistan,2020,3
+Asia,Asia & Oceania,Uzbekistan,2021,9
+Europe,Europe,Romania,2017,10
+Europe,Europe,Romania,2018,39
+Europe,Europe,Romania,2019,6
+Europe,Europe,Romania,2020,0
+Europe,Europe,Romania,2021,7
+Africa,Africa,Mozambique,2017,0
+Africa,Africa,Mozambique,2018,0
+Africa,Africa,Mozambique,2019,6
+Africa,Africa,Mozambique,2020,1
+Africa,Africa,Mozambique,2021,7
+Asia,Asia & Oceania,Kuwait,2017,2
+Asia,Asia & Oceania,Kuwait,2018,2
+Asia,Asia & Oceania,Kuwait,2019,7
+Asia,Asia & Oceania,Kuwait,2020,17
+Asia,Asia & Oceania,Kuwait,2021,4
+Africa,Africa,Morocco,2017,5
+Africa,Africa,Morocco,2018,3
+Africa,Africa,Morocco,2019,3
+Africa,Africa,Morocco,2020,3
+Africa,Africa,Morocco,2021,4
+Asia,Asia & Oceania,Qatar,2017,2
+Asia,Asia & Oceania,Qatar,2018,0
+Asia,Asia & Oceania,Qatar,2019,0
+Asia,Asia & Oceania,Qatar,2020,1
+Asia,Asia & Oceania,Qatar,2021,3
+Africa,Africa,Kenya,2017,23
+Africa,Africa,Kenya,2018,0
+Africa,Africa,Kenya,2019,0
+Africa,Africa,Kenya,2020,0
+Africa,Africa,Kenya,2021,3
+Europe,Europe,Luxembourg,2017,4
+Europe,Europe,Luxembourg,2018,4
+Europe,Europe,Luxembourg,2019,4
+Europe,Europe,Luxembourg,2020,4
+Europe,Europe,Luxembourg,2021,3
+North America,Americas,Honduras,2017,10
+North America,Americas,Honduras,2018,2
+North America,Americas,Honduras,2019,3
+North America,Americas,Honduras,2020,4
+North America,Americas,Honduras,2021,2
+North America,Americas,Barbados,2017,2
+North America,Americas,Barbados,2018,1
+North America,Americas,Barbados,2019,3
+North America,Americas,Barbados,2020,2
+North America,Americas,Barbados,2021,2
+Africa,Africa,"Tanzania, United Republic of",2017,0
+Africa,Africa,"Tanzania, United Republic of",2018,1
+Africa,Africa,"Tanzania, United Republic of",2019,4
+Africa,Africa,"Tanzania, United Republic of",2020,0
+Africa,Africa,"Tanzania, United Republic of",2021,2
+Africa,Africa,Egypt,2017,0
+Africa,Africa,Egypt,2018,0
+Africa,Africa,Egypt,2019,0
+Africa,Africa,Egypt,2020,0
+Africa,Africa,Egypt,2021,2
+Asia,Asia & Oceania,Bangladesh,2017,0
+Asia,Asia & Oceania,Bangladesh,2018,0
+Asia,Asia & Oceania,Bangladesh,2019,1
+Asia,Asia & Oceania,Bangladesh,2020,1
+Asia,Asia & Oceania,Bangladesh,2021,1
+Asia,Asia & Oceania,Azerbaijan,2017,0
+Asia,Asia & Oceania,Azerbaijan,2018,0
+Asia,Asia & Oceania,Azerbaijan,2019,0
+Asia,Asia & Oceania,Azerbaijan,2020,0
+Asia,Asia & Oceania,Azerbaijan,2021,1
+Asia,Asia & Oceania,Bhutan,2017,0
+Asia,Asia & Oceania,Bhutan,2018,0
+Asia,Asia & Oceania,Bhutan,2019,0
+Asia,Asia & Oceania,Bhutan,2020,0
+Asia,Asia & Oceania,Bhutan,2021,1
+South America,Americas,Guyana,2017,0
+South America,Americas,Guyana,2018,0
+South America,Americas,Guyana,2019,0
+South America,Americas,Guyana,2020,0
+South America,Americas,Guyana,2021,1
+Asia,Asia & Oceania,Georgia,2017,0
+Asia,Asia & Oceania,Georgia,2018,3
+Asia,Asia & Oceania,Georgia,2019,6
+Asia,Asia & Oceania,Georgia,2020,1
+Asia,Asia & Oceania,Georgia,2021,1
+Africa,Africa,Ethiopia,2017,0
+Africa,Africa,Ethiopia,2018,0
+Africa,Africa,Ethiopia,2019,0
+Africa,Africa,Ethiopia,2020,0
+Africa,Africa,Ethiopia,2021,1
+North America,Americas,Nicaragua,2017,0
+North America,Americas,Nicaragua,2018,0
+North America,Americas,Nicaragua,2019,0
+North America,Americas,Nicaragua,2020,0
+North America,Americas,Nicaragua,2021,1
+Oceania,Asia & Oceania,New Caledonia,2017,1
+Oceania,Asia & Oceania,New Caledonia,2018,0
+Oceania,Asia & Oceania,New Caledonia,2019,0
+Oceania,Asia & Oceania,New Caledonia,2020,1
+Oceania,Asia & Oceania,New Caledonia,2021,1
+Africa,Africa,Eswatini,2017,34
+Africa,Africa,Eswatini,2018,0
+Africa,Africa,Eswatini,2019,0
+Africa,Africa,Eswatini,2020,2
+Africa,Africa,Eswatini,2021,1
+North America,Americas,Saint Lucia,2017,0
+North America,Americas,Saint Lucia,2018,0
+North America,Americas,Saint Lucia,2019,0
+North America,Americas,Saint Lucia,2020,0
+North America,Americas,Saint Lucia,2021,1
+Asia,Asia & Oceania,"Macao, China",2017,0
+Asia,Asia & Oceania,"Macao, China",2018,0
+Asia,Asia & Oceania,"Macao, China",2019,2
+Asia,Asia & Oceania,"Macao, China",2020,0
+Asia,Asia & Oceania,"Macao, China",2021,1
+Asia,Asia & Oceania,Lebanon,2017,0
+Asia,Asia & Oceania,Lebanon,2018,1
+Asia,Asia & Oceania,Lebanon,2019,3
+Asia,Asia & Oceania,Lebanon,2020,1
+Asia,Asia & Oceania,Lebanon,2021,1
+Africa,Africa,Lesotho,2017,0
+Africa,Africa,Lesotho,2018,0
+Africa,Africa,Lesotho,2019,0
+Africa,Africa,Lesotho,2020,0
+Africa,Africa,Lesotho,2021,1
+Asia,Asia & Oceania,Oman,2017,9
+Asia,Asia & Oceania,Oman,2018,2
+Asia,Asia & Oceania,Oman,2019,0
+Asia,Asia & Oceania,Oman,2020,0
+Asia,Asia & Oceania,Oman,2021,1
+Europe,Europe,Moldova,2017,0
+Europe,Europe,Moldova,2018,20
+Europe,Europe,Moldova,2019,0
+Europe,Europe,Moldova,2020,1
+Europe,Europe,Moldova,2021,1
+Europe,Europe,Malta,2017,0
+Europe,Europe,Malta,2018,0
+Europe,Europe,Malta,2019,0
+Europe,Europe,Malta,2020,0
+Europe,Europe,Malta,2021,1
+Africa,Africa,Mauritania,2017,0
+Africa,Africa,Mauritania,2018,11
+Africa,Africa,Mauritania,2019,19
+Africa,Africa,Mauritania,2020,0
+Africa,Africa,Mauritania,2021,0
+Africa,Africa,Mauritius,2017,0
+Africa,Africa,Mauritius,2018,0
+Africa,Africa,Mauritius,2019,0
+Africa,Africa,Mauritius,2020,0
+Africa,Africa,Mauritius,2021,0
+Europe,Europe,Montenegro,2017,0
+Europe,Europe,Montenegro,2018,0
+Europe,Europe,Montenegro,2019,0
+Europe,Europe,Montenegro,2020,0
+Europe,Europe,Montenegro,2021,0
+Asia,Asia & Oceania,Mongolia,2017,0
+Asia,Asia & Oceania,Mongolia,2018,0
+Asia,Asia & Oceania,Mongolia,2019,0
+Asia,Asia & Oceania,Mongolia,2020,1
+Asia,Asia & Oceania,Mongolia,2021,0
+Africa,Africa,Namibia,2017,23
+Africa,Africa,Namibia,2018,0
+Africa,Africa,Namibia,2019,0
+Africa,Africa,Namibia,2020,1
+Africa,Africa,Namibia,2021,0
+Asia,Asia & Oceania,Nepal,2017,0
+Asia,Asia & Oceania,Nepal,2018,0
+Asia,Asia & Oceania,Nepal,2019,0
+Asia,Asia & Oceania,Nepal,2020,0
+Asia,Asia & Oceania,Nepal,2021,0
+North America,Americas,Curacao,2017,0
+North America,Americas,Curacao,2018,0
+North America,Americas,Curacao,2019,0
+North America,Americas,Curacao,2020,0
+North America,Americas,Curacao,2021,0
+North America,Americas,Aruba,2017,0
+North America,Americas,Aruba,2018,1
+North America,Americas,Aruba,2019,0
+North America,Americas,Aruba,2020,0
+North America,Americas,Aruba,2021,0
+Asia,Asia & Oceania,Lao People's Democratic Republic,2017,1
+Asia,Asia & Oceania,Lao People's Democratic Republic,2018,0
+Asia,Asia & Oceania,Lao People's Democratic Republic,2019,0
+Asia,Asia & Oceania,Lao People's Democratic Republic,2020,0
+Asia,Asia & Oceania,Lao People's Democratic Republic,2021,0
+Asia,Asia & Oceania,Jordan,2017,0
+Asia,Asia & Oceania,Jordan,2018,0
+Asia,Asia & Oceania,Jordan,2019,0
+Asia,Asia & Oceania,Jordan,2020,0
+Asia,Asia & Oceania,Jordan,2021,0
+North America,Americas,Saint Pierre and Miquelon,2017,0
+North America,Americas,Saint Pierre and Miquelon,2018,0
+North America,Americas,Saint Pierre and Miquelon,2019,2
+North America,Americas,Saint Pierre and Miquelon,2020,0
+North America,Americas,Saint Pierre and Miquelon,2021,0
+Africa,Africa,Senegal,2017,0
+Africa,Africa,Senegal,2018,0
+Africa,Africa,Senegal,2019,2
+Africa,Africa,Senegal,2020,12
+Africa,Africa,Senegal,2021,0
+Africa,Africa,Nigeria,2017,0
+Africa,Africa,Nigeria,2018,58
+Africa,Africa,Nigeria,2019,60
+Africa,Africa,Nigeria,2020,0
+Africa,Africa,Nigeria,2021,0
+Asia,Asia & Oceania,Pakistan,2017,15
+Asia,Asia & Oceania,Pakistan,2018,0
+Asia,Asia & Oceania,Pakistan,2019,0
+Asia,Asia & Oceania,Pakistan,2020,0
+Asia,Asia & Oceania,Pakistan,2021,0
+South America,Americas,Paraguay,2017,0
+South America,Americas,Paraguay,2018,0
+South America,Americas,Paraguay,2019,0
+South America,Americas,Paraguay,2020,0
+South America,Americas,Paraguay,2021,0
+South America,Americas,Peru,2017,70
+South America,Americas,Peru,2018,240
+South America,Americas,Peru,2019,441
+South America,Americas,Peru,2020,421
+South America,Americas,Peru,2021,0
+Oceania,Asia & Oceania,Fiji,2017,1
+Oceania,Asia & Oceania,Fiji,2018,1
+Oceania,Asia & Oceania,Fiji,2019,1
+Oceania,Asia & Oceania,Fiji,2020,0
+Oceania,Asia & Oceania,Fiji,2021,0
+Oceania,Asia & Oceania,French Polynesia,2017,0
+Oceania,Asia & Oceania,French Polynesia,2018,0
+Oceania,Asia & Oceania,French Polynesia,2019,1
+Oceania,Asia & Oceania,French Polynesia,2020,0
+Oceania,Asia & Oceania,French Polynesia,2021,0
+Asia,Asia & Oceania,Cyprus,2017,1
+Asia,Asia & Oceania,Cyprus,2018,0
+Asia,Asia & Oceania,Cyprus,2019,0
+Asia,Asia & Oceania,Cyprus,2020,2
+Asia,Asia & Oceania,Cyprus,2021,0
+Europe,Europe,Czech Republic,2017,51
+Europe,Europe,Czech Republic,2018,84
+Europe,Europe,Czech Republic,2019,101
+Europe,Europe,Czech Republic,2020,121
+Europe,Europe,Czech Republic,2021,0
+Africa,Africa,Botswana,2017,0
+Africa,Africa,Botswana,2018,0
+Africa,Africa,Botswana,2019,0
+Africa,Africa,Botswana,2020,0
+Africa,Africa,Botswana,2021,0
+Asia,Asia & Oceania,Israel,2017,75
+Asia,Asia & Oceania,Israel,2018,77
+Asia,Asia & Oceania,Israel,2019,154
+Asia,Asia & Oceania,Israel,2020,92
+Asia,Asia & Oceania,Israel,2021,0
+Africa,Africa,Cameroon,2017,0
+Africa,Africa,Cameroon,2018,0
+Africa,Africa,Cameroon,2019,120
+Africa,Africa,Cameroon,2020,41
+Africa,Africa,Cameroon,2021,0
+Africa,Africa,Comoros,2017,1
+Africa,Africa,Comoros,2018,5
+Africa,Africa,Comoros,2019,1
+Africa,Africa,Comoros,2020,1
+Africa,Africa,Comoros,2021,0
+Africa,Africa,"Congo, Democratic Republic of the",2017,105
+Africa,Africa,"Congo, Democratic Republic of the",2018,15
+Africa,Africa,"Congo, Democratic Republic of the",2019,27
+Africa,Africa,"Congo, Democratic Republic of the",2020,72
+Africa,Africa,"Congo, Democratic Republic of the",2021,0
+Europe,Europe,Albania,2017,0
+Europe,Europe,Albania,2018,0
+Europe,Europe,Albania,2019,0
+Europe,Europe,Albania,2020,0
+Europe,Europe,Albania,2021,0
+Asia,Asia & Oceania,Bahrain,2017,1
+Asia,Asia & Oceania,Bahrain,2018,3
+Asia,Asia & Oceania,Bahrain,2019,5
+Asia,Asia & Oceania,Bahrain,2020,1
+Asia,Asia & Oceania,Bahrain,2021,0
+Africa,Africa,Zambia,2017,0
+Africa,Africa,Zambia,2018,0
+Africa,Africa,Zambia,2019,1
+Africa,Africa,Zambia,2020,0
+Africa,Africa,Zambia,2021,0
+Oceania,Asia & Oceania,Samoa,2017,0
+Oceania,Asia & Oceania,Samoa,2018,0
+Oceania,Asia & Oceania,Samoa,2019,0
+Oceania,Asia & Oceania,Samoa,2020,0
+Oceania,Asia & Oceania,Samoa,2021,0
+South America,Americas,Uruguay,2017,1
+South America,Americas,Uruguay,2018,1
+South America,Americas,Uruguay,2019,0
+South America,Americas,Uruguay,2020,1
+South America,Americas,Uruguay,2021,0
+Africa,Africa,Togo,2017,33
+Africa,Africa,Togo,2018,2
+Africa,Africa,Togo,2019,0
+Africa,Africa,Togo,2020,0
+Africa,Africa,Togo,2021,0
+Europe,Europe,Macedonia,2017,0
+Europe,Europe,Macedonia,2018,38
+Europe,Europe,Macedonia,2019,0
+Europe,Europe,Macedonia,2020,1
+Europe,Europe,Macedonia,2021,0
+Asia,Asia & Oceania,Tajikistan,2017,4
+Asia,Asia & Oceania,Tajikistan,2018,0
+Asia,Asia & Oceania,Tajikistan,2019,5
+Asia,Asia & Oceania,Tajikistan,2020,0
+Asia,Asia & Oceania,Tajikistan,2021,0
+Asia,Asia & Oceania,Turkmenistan,2017,0
+Asia,Asia & Oceania,Turkmenistan,2018,0
+Asia,Asia & Oceania,Turkmenistan,2019,0
+Asia,Asia & Oceania,Turkmenistan,2020,0
+Asia,Asia & Oceania,Turkmenistan,2021,0
+North America,Americas,Turks and Caicos Islands,2017,0
+North America,Americas,Turks and Caicos Islands,2018,0
+North America,Americas,Turks and Caicos Islands,2019,0
+North America,Americas,Turks and Caicos Islands,2020,401
+North America,Americas,Turks and Caicos Islands,2021,0
+Oceania,Asia & Oceania,Tokelau,2017,1
+Oceania,Asia & Oceania,Tokelau,2018,0
+Oceania,Asia & Oceania,Tokelau,2019,0
+Oceania,Asia & Oceania,Tokelau,2020,4
+Oceania,Asia & Oceania,Tokelau,2021,0
+North America,Americas,Trinidad and Tobago,2017,131
+North America,Americas,Trinidad and Tobago,2018,0
+North America,Americas,Trinidad and Tobago,2019,0
+North America,Americas,Trinidad and Tobago,2020,0
+North America,Americas,Trinidad and Tobago,2021,0
+Asia,Asia & Oceania,Syrian Arab Republic,2017,63
+Asia,Asia & Oceania,Syrian Arab Republic,2018,0
+Asia,Asia & Oceania,Syrian Arab Republic,2019,0
+Asia,Asia & Oceania,Syrian Arab Republic,2020,0
+Asia,Asia & Oceania,Syrian Arab Republic,2021,0
+South America,Americas,Venezuela,2017,0
+South America,Americas,Venezuela,2018,0
+South America,Americas,Venezuela,2019,0
+South America,Americas,Venezuela,2020,0
+South America,Americas,Venezuela,2021,0
+Asia,Asia & Oceania,Yemen,2017,2
+Asia,Asia & Oceania,Yemen,2018,13
+Asia,Asia & Oceania,Yemen,2019,2
+Asia,Asia & Oceania,Yemen,2020,0
+Asia,Asia & Oceania,Yemen,2021,0
+North America,Americas,Bahamas,2017,2
+North America,Americas,Bahamas,2018,1
+North America,Americas,Bahamas,2019,2
+North America,Americas,Bahamas,2020,0
+North America,Americas,Bahamas,2021,0
+North America,Americas,Antigua and Barbuda,2017,0
+North America,Americas,Antigua and Barbuda,2018,1
+North America,Americas,Antigua and Barbuda,2019,1
+North America,Americas,Antigua and Barbuda,2020,0
+North America,Americas,Antigua and Barbuda,2021,0
+Europe,Europe,Andorra,2017,0
+Europe,Europe,Andorra,2018,1
+Europe,Europe,Andorra,2019,0
+Europe,Europe,Andorra,2020,0
+Europe,Europe,Andorra,2021,0
+Asia,Asia & Oceania,Afghanistan,2017,0
+Asia,Asia & Oceania,Afghanistan,2018,0
+Asia,Asia & Oceania,Afghanistan,2019,0
+Asia,Asia & Oceania,Afghanistan,2020,0
+Asia,Asia & Oceania,Afghanistan,2021,0
+Africa,Africa,Cabo Verde,2017,0
+Africa,Africa,Cabo Verde,2018,0
+Africa,Africa,Cabo Verde,2019,0
+Africa,Africa,Cabo Verde,2020,0
+Africa,Africa,Cabo Verde,2021,0
+North America,Americas,Cayman Islands,2017,0
+North America,Americas,Cayman Islands,2018,0
+North America,Americas,Cayman Islands,2019,0
+North America,Americas,Cayman Islands,2020,0
+North America,Americas,Cayman Islands,2021,0
+Asia,Asia & Oceania,Sri Lanka,2017,151
+Asia,Asia & Oceania,Sri Lanka,2018,0
+Asia,Asia & Oceania,Sri Lanka,2019,172
+Asia,Asia & Oceania,Sri Lanka,2020,0
+Asia,Asia & Oceania,Sri Lanka,2021,0
+Africa,Africa,Chad,2017,0
+Africa,Africa,Chad,2018,0
+Africa,Africa,Chad,2019,18
+Africa,Africa,Chad,2020,2213
+Africa,Africa,Chad,2021,0
+North America,Americas,Bermuda,2017,0
+North America,Americas,Bermuda,2018,0
+North America,Americas,Bermuda,2019,0
+North America,Americas,Bermuda,2020,0
+North America,Americas,Bermuda,2021,0
+Asia,Asia & Oceania,Iraq,2017,0
+Asia,Asia & Oceania,Iraq,2018,0
+Asia,Asia & Oceania,Iraq,2019,0
+Asia,Asia & Oceania,Iraq,2020,19
+Asia,Asia & Oceania,Iraq,2021,0
+Africa,Africa,Gambia,2017,0
+Africa,Africa,Gambia,2018,0
+Africa,Africa,Gambia,2019,9
+Africa,Africa,Gambia,2020,7
+Africa,Africa,Gambia,2021,0
+Asia,Asia & Oceania,Palestine,2017,0
+Asia,Asia & Oceania,Palestine,2018,0
+Asia,Asia & Oceania,Palestine,2019,0
+Asia,Asia & Oceania,Palestine,2020,0
+Asia,Asia & Oceania,Palestine,2021,0
+North America,Americas,Dominica,2017,0
+North America,Americas,Dominica,2018,11
+North America,Americas,Dominica,2019,0
+North America,Americas,Dominica,2020,0
+North America,Americas,Dominica,2021,0
+Oceania,Asia & Oceania,Papua New Guinea,2017,0
+Oceania,Asia & Oceania,Papua New Guinea,2018,0
+Oceania,Asia & Oceania,Papua New Guinea,2019,1
+Oceania,Asia & Oceania,Papua New Guinea,2020,0
+Oceania,Asia & Oceania,Papua New Guinea,2021,0
+Asia,Asia & Oceania,Timor-Leste,2017,0
+Asia,Asia & Oceania,Timor-Leste,2018,0
+Asia,Asia & Oceania,Timor-Leste,2019,0
+Asia,Asia & Oceania,Timor-Leste,2020,0
+Asia,Asia & Oceania,Timor-Leste,2021,0
+Africa,Africa,Niger,2017,21
+Africa,Africa,Niger,2018,72
+Africa,Africa,Niger,2019,173
+Africa,Africa,Niger,2020,124
+Africa,Africa,Niger,2021,0
+Africa,Africa,Seychelles,2017,0
+Africa,Africa,Seychelles,2018,0
+Africa,Africa,Seychelles,2019,0
+Africa,Africa,Seychelles,2020,0
+Africa,Africa,Seychelles,2021,0
+Africa,Africa,Sierra Leone,2017,0
+Africa,Africa,Sierra Leone,2018,3
+Africa,Africa,Sierra Leone,2019,7
+Africa,Africa,Sierra Leone,2020,0
+Africa,Africa,Sierra Leone,2021,0
+Africa,Africa,Somalia,2017,1
+Africa,Africa,Somalia,2018,0
+Africa,Africa,Somalia,2019,0
+Africa,Africa,Somalia,2020,1
+Africa,Africa,Somalia,2021,0
+Africa,Africa,Ivory Coast,2017,1
+Africa,Africa,Ivory Coast,2018,0
+Africa,Africa,Ivory Coast,2019,0
+Africa,Africa,Ivory Coast,2020,0
+Africa,Africa,Ivory Coast,2021,0
+Asia,Asia & Oceania,Democratic People's Republic of Korea,2017,8
+Asia,Asia & Oceania,Democratic People's Republic of Korea,2018,0
+Asia,Asia & Oceania,Democratic People's Republic of Korea,2019,0
+Asia,Asia & Oceania,Democratic People's Republic of Korea,2020,0
+Asia,Asia & Oceania,Democratic People's Republic of Korea,2021,0
+Africa,Africa,Liberia,2017,1
+Africa,Africa,Liberia,2018,3
+Africa,Africa,Liberia,2019,2
+Africa,Africa,Liberia,2020,6
+Africa,Africa,Liberia,2021,0
+Africa,Africa,Libya,2017,0
+Africa,Africa,Libya,2018,0
+Africa,Africa,Libya,2019,9
+Africa,Africa,Libya,2020,0
+Africa,Africa,Libya,2021,0
+North America,Americas,"Bonaire, Sint Eustatius and Saba",2017,0
+North America,Americas,"Bonaire, Sint Eustatius and Saba",2018,0
+North America,Americas,"Bonaire, Sint Eustatius and Saba",2019,0
+North America,Americas,"Bonaire, Sint Eustatius and Saba",2020,0
+North America,Americas,"Bonaire, Sint Eustatius and Saba",2021,0
